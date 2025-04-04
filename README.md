@@ -1,3 +1,2 @@
 # elso-git
-🐒
 ## Első commitolás
